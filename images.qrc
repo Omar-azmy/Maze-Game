@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/wall.png</file>
+        <file>Images/Enemy.png</file>
+        <file>Images/Player.png</file>
+        <file>Images/Target.png</file>
+    </qresource>
+</RCC>
